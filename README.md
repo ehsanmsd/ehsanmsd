@@ -4,9 +4,9 @@ I'm Azim (Ehsan)Masoudinejad, Site Reliability Engineer ♾️ based in Tehran, 
 ## 📬 Get in touch
 
 - [Mail](mailto:azimmasoudi@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/azim-masoudi/]
-- Twitter: [https://twitter.com/ehsanmsd]
-- Blog: [https://virgool.io/@ehsanmasoudi]
+- [LinkedIn](https://www.linkedin.com/in/azim-masoudi/)
+- [Twitter](https://twitter.com/ehsanmsd)
+- [Blog](https://virgool.io/@ehsanmasoudi)
 
 ## 📕 Latest Blog Posts
 
