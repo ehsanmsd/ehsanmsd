@@ -1,5 +1,5 @@
 ### Hey 👋
-I'm Azim (Ehsan) Masoudinejad, Site Reliability Engineer ♾️ based in Tehran, Iran 🇮🇷 .
+I'm Azim (Ehsan) Masoudinejad, Site Reliability Engineer ♾️.
 
 You can find my CV [here](https://docs.google.com/document/d/1YdD4-KMFQ6nWgxDCcChSOBLjwsCeyNvn/edit?usp=sharing&ouid=112188003209278400158&rtpof=true&sd=true)
 
