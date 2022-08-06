@@ -1,8 +1,6 @@
 ### Hey 👋
 I'm Azim (Ehsan) Masoudinejad, Site Reliability Engineer ♾️.
 
-Find my CV [HERE](https://docs.google.com/document/d/1nJ1Hhe-_n5nZlRipjQ-alQYvqMMstfGQ/edit?usp=sharing&ouid=112188003209278400158&rtpof=true&sd=true)
-
 ## 📬 Get in touch
 
 - [Mail](mailto:azimmasoudi@gmail.com)
