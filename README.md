@@ -5,7 +5,7 @@ I'm Azim (Ehsan) Masoudinejad, Site Reliability Engineer ♾️.
 
 - [Mail](mailto:azimmasoudi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/azim-masoudi/)
-- [Twitter](https://twitter.com/ehsanmsd)
+- [Twitter](https://twitter.com/_ehsanmasoudi)
 - [Blog](https://virgool.io/@ehsanmasoudi)
 
 ## 📕 Latest Blog Posts
