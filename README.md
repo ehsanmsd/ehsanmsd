@@ -1,5 +1,5 @@
 ### Hey 👋
-I'm Azim (Ehsan) Masoudinejad, Site Reliability Engineer ♾️.
+I'm Azim Masoudinejad, Site Reliability Engineer ♾️.
 
 ## 📬 Get in touch
 
